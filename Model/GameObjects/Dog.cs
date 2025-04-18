@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Prison_Escape_Game.Model.GameObjects
 {
-    internal class Dog
+    public class Dog
     {
+        private int Health { get;set; }
+        private bool Sleep { get; set; } //спит собака или нет
     }
 }

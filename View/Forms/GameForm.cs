@@ -9,6 +9,29 @@ namespace Prison_Escape_Game.View.Forms
 {
     internal class GameForm : Form
     {
+        private Button exitButton;
+        private ProgressBar healthBar;
+        private Label healthLabel;
+        private const int InventorySize = 5;
+        private PictureBox[] inventory;
+
+        public GameForm()
+        {
+            InitializeComponent();
+            SetupLayout();
+            SetupEvents();
+        }
+
+        private void SetupEvents()
+        {
+            throw new NotImplementedException();
+        }
+
+        private void SetupLayout()
+        {
+            throw new NotImplementedException();
+        }
+
         private void InitializeComponent()
         {
             this.SuspendLayout();

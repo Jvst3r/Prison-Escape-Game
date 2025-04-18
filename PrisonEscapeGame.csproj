@@ -49,7 +49,12 @@
     <Compile Include="Model\GameObjects\Dog.cs" />
     <Compile Include="Model\GameObjects\Guard.cs" />
     <Compile Include="Model\GameObjects\Item.cs" />
+    <Compile Include="Model\GameObjects\Pistol.cs" />
     <Compile Include="Model\GameObjects\Player.cs" />
+    <Compile Include="Model\GameObjects\PoliceBaton.cs" />
+    <Compile Include="Model\GameObjects\Rope.cs" />
+    <Compile Include="Model\GameObjects\Shovel.cs" />
+    <Compile Include="Model\GameObjects\Spoon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\Forms\AboutGameForm.cs">

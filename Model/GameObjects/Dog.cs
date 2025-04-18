@@ -8,7 +8,9 @@ namespace Prison_Escape_Game.Model.GameObjects
 {
     public class Dog
     {
-        private int Health { get;set; }
-        private bool Sleep { get; set; } //спит собака или нет
+        private int health { get;set; } //
+        private bool sleep { get; set; } //спит собака или нет
+
+        private string name { get; set; }
     }
 }

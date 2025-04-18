@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Prison_Escape_Game.Model.GameObjects
 {
-    internal class Item
+    public class Item
     {
+        private string name { get; set; }
     }
 }

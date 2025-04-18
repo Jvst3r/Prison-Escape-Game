@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Prison_Escape_Game.Model.GameObjects
 {
-    public class Guard
+    public class Rope : Item
     {
-        private int health;
-        private string name;
-        private Item weapon;
     }
 }

@@ -19,13 +19,13 @@ namespace PrisonEscapeGame.View.Forms
         {
             ("Концепция игры",
              "Вы - заключенный, пытающийся сбежать из американской тюрьмы. Используйте различные методы для побега: прорыть тоннель, замаскироваться или перелезть через стену.",
-             "Assets/Images/slide1.jpg"),
+             "Properties/Images/slide1.jpg"),
             ("Механики игры",
              "Ищите предметы, прячьтесь от охранников, собирайте информацию и выполняйте действия в нужные моменты времени.",
-             "Assets/Images/slide2.jpg"),
+             "Properties/Images/slide2.jpg"),
             ("Управление",
              "WASD - движение\nE - взаимодействие с объектами\n1-5 - выбор предмета в инвентаре\nShift - бег\nCtrl - присесть",
-             "Assets/Images/slide3.jpg")
+             "Properties/Images/slide3.jpg")
         };
 
         public AboutGameForm()
